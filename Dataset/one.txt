@@ -1,0 +1,4 @@
+Temperature,Humdity,Windspeed
+31.95,47.5,7.1
+20.85,46.2,0.55
+24.6,83.3,2.55
